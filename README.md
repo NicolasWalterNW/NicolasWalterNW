@@ -3,7 +3,6 @@
 
 - 👨‍💻 Mon site web : [nicolaswalter.mmi-unistra.fr](nicolaswalter.mmi-unistra.fr)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicolas-walter-nw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas-walter-nw" height="30" width="40" /></a>
 </p>
